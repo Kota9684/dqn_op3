@@ -8,10 +8,10 @@
 
 ### Usage
 OP3の起動後にlearning.pyを走らせる  
-'''
+~~~
 roslaunch op3_gazebo robotis_world.launch  
 python learning.py
-'''
+~~~
 ### References
  
 
