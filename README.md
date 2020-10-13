@@ -15,7 +15,7 @@ OP3の起動後に別のterminalでlearning.pyを走らせる
 $ roslaunch op3_gazebo robotis_world.launch  
 $ python learning.py
 ~~~
-### References
+
  
 
 DQN, ROS kinetic, OP3
